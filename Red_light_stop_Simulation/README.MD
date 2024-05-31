@@ -3,13 +3,13 @@
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](Red light stop Simulation/Block-diagramme.png)
+![Block Diagram](/Red_light_stop_Simulation/Block-diagramme.png)
 
 ### Schematic
 
-![Schematic](Red light stop Simulation/Schema.png)
+![Schematic](/Red_light_stop_Simulation/Schema.png)
 
-[CODE](Red light stop Simulation/_sem.ino)
+[CODE](/Red_light_stop_Simulation/_sem.ino)
 
 # Code 
 ```C
