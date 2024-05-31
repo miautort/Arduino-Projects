@@ -1,10 +1,6 @@
 # Arduino-Projects
 a series of smaller projects done for university
 
-
-# Arduino-Projects
-a series of smaller projects done for university
-
 1. Smart Greenhouse - made for myself
 2. 1st Weather Monitoring Station - made for a classmate
 3. 2nd Weather Monitoring Station - made for a classmate
