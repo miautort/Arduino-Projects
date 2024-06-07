@@ -6,3 +6,4 @@ a series of smaller projects done for university
 3. 2nd Weather Monitoring Station - made for a classmate
 4. Line-following Robot - made for a classmate
 5. Light Stop Simulation - also made for a classmate
+6. Wildfire detection system - made for my class
